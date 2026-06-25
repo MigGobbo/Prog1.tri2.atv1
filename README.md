@@ -1,7 +1,6 @@
 # prog1.tri2.atv3
 ## Classes e objetos
-
-...
+[link]https://www.typescriptlang.org/play/?#code/PTAEFUFsENQYwDbQM7IKagJegK6VJAPYAmaChoAjjhqQGYCWAdhnNAE7RwAua7At8m4M2yUK0KQADoXbdokNE26FkAOgj5CAIwBWaFVlwxQzIQCOmcBrFKpYiFOgBQzx6lAAFNKkKwA3s6gwaBMkmgAXKBC7MwA5qAAvKAARACyDHE0CCkA3M4Avq5whExCoFI+yH5JoWgA7l5VfgAUAJS5QA
 
 ## Atributos e métodos
 
